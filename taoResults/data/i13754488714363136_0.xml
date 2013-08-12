@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<events>
+  <event>
+    <name><![CDATA[a]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375448888225]]></time>
+    <id><![CDATA[qti_validate]]></id>
+  </event>
+  <event>
+    <name><![CDATA[li]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375448884947]]></time>
+    <id><![CDATA[c]]></id>
+  </event>
+</events>

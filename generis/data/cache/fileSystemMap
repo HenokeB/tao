@@ -1,0 +1,1 @@
+<? return array('http://localhost:8888/tao/tao.rdf#i13753770791251' => unserialize('O:27:"core_kernel_classes_Literal":1:{s:7:"literal";s:46:"/Applications/MAMP/htdocs/tao/tao/data/upload/";}'),'http://localhost:8888/tao/tao.rdf#i137537708383112' => unserialize('O:27:"core_kernel_classes_Literal":1:{s:7:"literal";s:44:"/Applications/MAMP/htdocs/tao/taoItems/data/";}'));?>

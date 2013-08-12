@@ -1,0 +1,237 @@
+2013-08-01 20:11:13 [INFO] 'Checking install data' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 78
+2013-08-01 20:11:13 [INFO] 'Starting TAO install' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 81
+2013-08-01 20:11:13 [INFO] 'PHP Version (5.3.6) is higher or equal to 5.3.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'PDO' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'curl' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'zip' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'json' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'spl' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'dom' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'mbstring' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Configuration Option 'magic_quotes_gpc' = '0' has an expected value.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Configuration Option 'register_globals' = '0' has an expected value.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Configuration Option 'short_open_tag' = '1' has an expected value.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Configuration Option 'safe_mode' = '' has an expected value.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_1' in '/Applications/MAMP/htdocs/tao/. is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_2' in '/Applications/MAMP/htdocs/tao/generis/data/cache is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_3' in '/Applications/MAMP/htdocs/tao/generis/data/versioning is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_4' in '/Applications/MAMP/htdocs/tao/generis/common is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_5' in '/Applications/MAMP/htdocs/tao/generis/common/conf is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_6' in '/Applications/MAMP/htdocs/tao/generis/common/conf/default is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_7' in '/Applications/MAMP/htdocs/tao/generis/common/conf/sample is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_8' in '/Applications/MAMP/htdocs/tao/tao/views/export is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_9' in '/Applications/MAMP/htdocs/tao/tao/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_10' in '/Applications/MAMP/htdocs/tao/tao/update/patches is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_11' in '/Applications/MAMP/htdocs/tao/tao/locales is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_12' in '/Applications/MAMP/htdocs/tao/tao/data/cache/htmlpurifier is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_13' in '/Applications/MAMP/htdocs/tao/tao/data/cache/htmlpurifier is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_14' in '/Applications/MAMP/htdocs/tao/tao/data/upload is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'Apache mod_rewrite is enabled.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'A suitable Database Driver is available.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'gd' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_15' in '/Applications/MAMP/htdocs/tao/filemanager/views/data is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_16' in '/Applications/MAMP/htdocs/tao/filemanager/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_17' in '/Applications/MAMP/htdocs/tao/taoItems/data is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_18' in '/Applications/MAMP/htdocs/tao/taoItems/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_19' in '/Applications/MAMP/htdocs/tao/taoItems/views/runtime is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'PHP Extension 'tidy' is loaded.' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_20' in '/Applications/MAMP/htdocs/tao/wfEngine/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_21' in '/Applications/MAMP/htdocs/tao/taoResults/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_22' in '/Applications/MAMP/htdocs/tao/taoResults/views/genpics is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_23' in '/Applications/MAMP/htdocs/tao/taoTests/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_24' in '/Applications/MAMP/htdocs/tao/taoDelivery/data/compiled is compliant with expected rights (rw).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_25' in '/Applications/MAMP/htdocs/tao/taoDelivery/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_26' in '/Applications/MAMP/htdocs/tao/taoGroups/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_27' in '/Applications/MAMP/htdocs/tao/taoSubjects/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'File system component 'FileSystemComponentCheck_28' in '/Applications/MAMP/htdocs/tao/wfAuthoring/includes is compliant with expected rights (r).'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 107
+2013-08-01 20:11:13 [INFO] 'Spawning DbCreator' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 117
+2013-08-01 20:11:13 [DEBUG] 'DbCreator spawned' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 126
+2013-08-01 20:11:13 [INFO] 'Created database tao' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 141
+2013-08-01 20:11:13 [INFO] 'db_driver : pdo_mysql' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 152
+2013-08-01 20:11:14 [INFO] 'Created tables' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 164
+2013-08-01 20:11:14 [INFO] 'Installing stored procedures for pdo_mysql' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 167
+2013-08-01 20:11:14 [INFO] 'Creating local namespace' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 174
+2013-08-01 20:11:14 [DEBUG] 'Writing db config' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 181
+2013-08-01 20:11:14 [DEBUG] 'Writing generis config' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 195
+2013-08-01 20:11:14 [DEBUG] 'Running the extensions bootstrap' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 217
+2013-08-01 19:11:15 [DEBUG] 'Inserting language description model '/Applications/MAMP/htdocs/tao/tao/install/utils/../../../tao/locales/da-DK/lang.rdf'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 230
+2013-08-01 19:11:15 [DEBUG] 'Inserting language description model '/Applications/MAMP/htdocs/tao/tao/install/utils/../../../tao/locales/en-US/lang.rdf'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 230
+2013-08-01 19:11:15 [DEBUG] 'Inserting language description model '/Applications/MAMP/htdocs/tao/tao/install/utils/../../../tao/locales/fr-FR/lang.rdf'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 230
+2013-08-01 19:11:15 [DEBUG] 'Inserting language description model '/Applications/MAMP/htdocs/tao/tao/install/utils/../../../tao/locales/sv-SE/lang.rdf'' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 230
+2013-08-01 19:11:15 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/generis/core/ontology/22-rdf-syntax-ns.rdf for generis' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:15 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/generis/core/ontology/rdf-schema.rdf for generis' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:15 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/generis/core/ontology/widgetdefinitions.rdf for generis' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:15 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/generis/core/ontology/rules.rdf for generis' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:15 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/generis/core/ontology/generis.rdf for generis' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:15 [TRACE] 'Loading extension tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension tao constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension filemanager' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension filemanager constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoItems constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension wfEngine constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoResults' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoResults constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoDelivery constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension taoTests constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [TRACE] 'Loading extension wfAuthoring' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:15 [TRACE] 'Loading extension wfAuthoring constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:15 [DEBUG] 'Constant INSTANCE_FORMALPARAM_TESTURI in taoDelivery has already been defined' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 179
+2013-08-01 19:11:15 [DEBUG] 'Constant INSTANCE_PROCESSVARIABLE_DELIVERY in taoDelivery has already been defined' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 179
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoGroups' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoGroups constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoSubjects constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:16 [DEBUG] 'Constant TAO_GROUP_MEMBERS_PROP in taoSubjects has already been defined' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 179
+2013-08-01 19:11:16 [DEBUG] 'Constant TAO_GROUP_MEMBERS_PROP in taoGroups has already been defined' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 179
+2013-08-01 19:11:16 [DEBUG] 'Constant TAO_GROUP_DELIVERIES_PROP in taoGroups has already been defined' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 179
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoQTI' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:16 [TRACE] 'Loading extension taoQTI constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:16 [INFO] 'Installing tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:16 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/tao/models/ontology/tao.rdf for tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:16 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/tao/models/ontology/taofuncacl.rdf for tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:16 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/tao/models/ontology/taoaclrole.rdf for tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:17 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/tao/models/ontology/oauth.rdf for tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:17 [DEBUG] 'Registering tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:17 [DEBUG] 'tao registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:17 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:17 [INFO] 'Loading constants for extension 'tao'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:17 [TRACE] 'Loading extension tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:17 [TRACE] 'Loading extension tao constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:17 [INFO] 'Spawning Extension/Module/Action model for extension 'tao'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:17 [INFO] 'Spawning Module/Action model for extension tao' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:19 [DEBUG] 'Running custom install script /Applications/MAMP/htdocs/tao/tao/scripts/install/addFileUploadSource.php for ext tao' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 283
+2013-08-01 19:11:21 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAO.rdf#TaoManagerRole created for extension 'tao'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:21 [INFO] 'Installing filemanager' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:21 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/filemanager/models/ontology/filemanager.rdf for filemanager' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:21 [DEBUG] 'Registering filemanager' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:21 [DEBUG] 'filemanager registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:21 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:21 [INFO] 'Loading constants for extension 'filemanager'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:21 [TRACE] 'Loading extension filemanager' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:21 [TRACE] 'Loading extension filemanager constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:21 [INFO] 'Spawning Extension/Module/Action model for extension 'filemanager'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:21 [INFO] 'Spawning Module/Action model for extension filemanager' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:21 [INFO] 'Management Role http://www.tao.lu/Ontologies/filemanager.rdf#MediaManagerRole created for extension 'filemanager'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:21 [INFO] 'Installing taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:21 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoItems/models/ontology/taoitem.rdf for taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:22 [DEBUG] 'Registering taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:22 [DEBUG] 'taoItems registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:22 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:22 [INFO] 'Loading constants for extension 'taoItems'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:22 [TRACE] 'Loading extension taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:22 [TRACE] 'Loading extension taoItems constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:22 [INFO] 'Spawning Extension/Module/Action model for extension 'taoItems'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:22 [INFO] 'Spawning Module/Action model for extension taoItems' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:23 [DEBUG] 'Running custom install script /Applications/MAMP/htdocs/tao/taoItems/scripts/install/addLocalSource.php for ext taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 283
+2013-08-01 19:11:23 [DEBUG] 'Running custom install script /Applications/MAMP/htdocs/tao/taoItems/scripts/install/cleanRuntime.php for ext taoItems' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 283
+2013-08-01 19:11:23 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOItem.rdf#ItemsManagerRole created for extension 'taoItems'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:23 [INFO] 'Installing wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:23 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/wfEngine/models/ontology/wfengine.rdf for wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:27 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/wfEngine/models/ontology/aclrole.rdf for wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:27 [DEBUG] 'Registering wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:27 [DEBUG] 'wfEngine registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:27 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:27 [INFO] 'Loading constants for extension 'wfEngine'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:27 [TRACE] 'Loading extension wfEngine' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:27 [TRACE] 'Loading extension wfEngine constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:27 [INFO] 'Spawning Extension/Module/Action model for extension 'wfEngine'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:27 [INFO] 'Spawning Module/Action model for extension wfEngine' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:30 [INFO] 'Management Role http://www.tao.lu/middleware/wfEngine.rdf#WorkflowsManagerRole created for extension 'wfEngine'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoDelivery constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoTests constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:30 [TRACE] 'Loading extension wfAuthoring' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:30 [TRACE] 'Loading extension wfAuthoring constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoSubjects constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:30 [INFO] 'Installing taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:30 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoSubjects/models/ontology/taosubject.rdf for taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:30 [DEBUG] 'Registering taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:30 [DEBUG] 'taoSubjects registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:30 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:30 [INFO] 'Loading constants for extension 'taoSubjects'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoSubjects' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:30 [TRACE] 'Loading extension taoSubjects constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:30 [INFO] 'Spawning Extension/Module/Action model for extension 'taoSubjects'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:30 [INFO] 'Spawning Module/Action model for extension taoSubjects' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:31 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOSubject.rdf#SubjectsManagerRole created for extension 'taoSubjects'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:31 [INFO] 'Installing wfAuthoring' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:31 [DEBUG] 'Registering wfAuthoring' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:31 [DEBUG] 'wfAuthoring registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:31 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:31 [INFO] 'Loading constants for extension 'wfAuthoring'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:31 [TRACE] 'Loading extension wfAuthoring' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:31 [TRACE] 'Loading extension wfAuthoring constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:31 [INFO] 'Spawning Extension/Module/Action model for extension 'wfAuthoring'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:31 [INFO] 'Spawning Module/Action model for extension wfAuthoring' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:32 [INFO] 'Management Role http://www.tao.lu/middleware/wfEngine.rdf#WorkflowsManagerRole created for extension 'wfAuthoring'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:32 [INFO] 'Installing taoQTI' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:32 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoQTI/models/ontology/taoQti.rdf for taoQTI' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:33 [DEBUG] 'Registering taoQTI' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:33 [DEBUG] 'taoQTI registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:33 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:33 [INFO] 'Loading constants for extension 'taoQTI'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoQTI' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoQTI constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:33 [INFO] 'Spawning Extension/Module/Action model for extension 'taoQTI'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:33 [INFO] 'Spawning Module/Action model for extension taoQTI' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:33 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOItem.rdf#QTIManagerRole created for extension 'taoQTI'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoDelivery constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:33 [TRACE] 'Loading extension taoTests constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:33 [INFO] 'Installing taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:33 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoTests/models/ontology/taotest.rdf for taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:34 [DEBUG] 'Registering taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:34 [DEBUG] 'taoTests registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:34 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:34 [INFO] 'Loading constants for extension 'taoTests'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:34 [TRACE] 'Loading extension taoTests' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:34 [TRACE] 'Loading extension taoTests constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:34 [INFO] 'Spawning Extension/Module/Action model for extension 'taoTests'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:34 [INFO] 'Spawning Module/Action model for extension taoTests' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:35 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOTest.rdf#TestsManagerRole created for extension 'taoTests'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:35 [INFO] 'Installing taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:35 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoDelivery/models/ontology/taodelivery.rdf for taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:37 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoDelivery/models/ontology/coding.rdf for taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:37 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoDelivery/models/ontology/aclrole.rdf for taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:37 [DEBUG] 'Registering taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:37 [DEBUG] 'taoDelivery registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:37 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:37 [INFO] 'Loading constants for extension 'taoDelivery'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:37 [TRACE] 'Loading extension taoDelivery' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:37 [TRACE] 'Loading extension taoDelivery constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:37 [INFO] 'Spawning Extension/Module/Action model for extension 'taoDelivery'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:37 [INFO] 'Spawning Module/Action model for extension taoDelivery' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:40 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAODelivery.rdf#DeliveryManagerRole created for extension 'taoDelivery'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:40 [INFO] 'Installing taoGroups' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:40 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoGroups/models/ontology/taogroup.rdf for taoGroups' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:41 [DEBUG] 'Registering taoGroups' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:41 [DEBUG] 'taoGroups registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:41 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:41 [INFO] 'Loading constants for extension 'taoGroups'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:41 [TRACE] 'Loading extension taoGroups' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:41 [TRACE] 'Loading extension taoGroups constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:41 [INFO] 'Spawning Extension/Module/Action model for extension 'taoGroups'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:41 [INFO] 'Spawning Module/Action model for extension taoGroups' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:41 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOGroup.rdf#GroupsManagerRole created for extension 'taoGroups'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:41 [INFO] 'Installing taoResults' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 100
+2013-08-01 19:11:41 [DEBUG] 'Inserting model /Applications/MAMP/htdocs/tao/taoResults/models/ontology/taoresult.rdf for taoResults' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 203
+2013-08-01 19:11:42 [DEBUG] 'Registering taoResults' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 254
+2013-08-01 19:11:42 [DEBUG] 'taoResults registered' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 261
+2013-08-01 19:11:42 [DEBUG] 'Extension manager flush' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 265
+2013-08-01 19:11:42 [INFO] 'Loading constants for extension 'taoResults'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 330
+2013-08-01 19:11:42 [TRACE] 'Loading extension taoResults' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 100
+2013-08-01 19:11:42 [TRACE] 'Loading extension taoResults constants' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionLoader.php 118
+2013-08-01 19:11:42 [INFO] 'Spawning Extension/Module/Action model for extension 'taoResults'' /Applications/MAMP/htdocs/tao/generis/common/ext/class.ExtensionInstaller.php 346
+2013-08-01 19:11:42 [INFO] 'Spawning Module/Action model for extension taoResults' /Applications/MAMP/htdocs/tao/tao/helpers/funcACL/class.Model.php 77
+2013-08-01 19:11:44 [INFO] 'Management Role http://www.tao.lu/Ontologies/TAOResult.rdf#ResultsManagerRole created for extension 'taoResults'.' /Applications/MAMP/htdocs/tao/tao/install/class.ExtensionInstaller.php 128
+2013-08-01 19:11:44 [INFO] 'Spawning SuperUser admin' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 298
+2013-08-01 19:11:44 [INFO] 'Securing tao for production' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 314
+2013-08-01 19:11:44 [DEBUG] 'Creating version file for TAO' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 328
+2013-08-01 19:11:44 [INFO] 'Instalation completed' /Applications/MAMP/htdocs/tao/tao/install/class.Installator.php 336

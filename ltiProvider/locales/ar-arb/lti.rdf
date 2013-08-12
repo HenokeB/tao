@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+-->
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xml:base="http://www.tao.lu/Ontologies/TAOLTI.rdf#">
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTIConsumer">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Consumer
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTIConsumer
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Consumer]]></rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTIUser">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI User
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTIUser
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI User]]></rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#UserKey">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Consumer User Key
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#UserKey
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Consumer User Key]]></rdfs:label>
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source Key of LTI User
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#UserKey
+    @predicate http://www.w3.org/2000/01/rdf-schema#comment
+    -->
+    <rdfs:comment xml:lang="ar-arb"><![CDATA[Key of LTI User]]></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#UserConsumer">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Consumer
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#UserConsumer
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Consumer]]></rdfs:label>
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Consumer of User
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#UserConsumer
+    @predicate http://www.w3.org/2000/01/rdf-schema#comment
+    -->
+    <rdfs:comment xml:lang="ar-arb"><![CDATA[LTI Consumer of User]]></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTITool">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Tool
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTITool
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Tool]]></rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolService">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Tool Service
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolService
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Tool Service]]></rdfs:label>
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source Service to implemnt the Tool
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolService
+    @predicate http://www.w3.org/2000/01/rdf-schema#comment
+    -->
+    <rdfs:comment xml:lang="ar-arb"><![CDATA[Service to implemnt the Tool]]></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolEntryPoint">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Entry Point
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolEntryPoint
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Entry Point]]></rdfs:label>
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source Action to execute when launching this tool
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#ToolEntryPoint
+    @predicate http://www.w3.org/2000/01/rdf-schema#comment
+    -->
+    <rdfs:comment xml:lang="ar-arb"><![CDATA[Action to execute when launching this tool]]></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILink">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI Link
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILink
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI Link]]></rdfs:label>
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source Link between Tool and Consumer
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILink
+    @predicate http://www.w3.org/2000/01/rdf-schema#comment
+    -->
+    <rdfs:comment xml:lang="ar-arb"><![CDATA[Link between Tool and Consumer]]></rdfs:comment>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILinkId">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI link ID
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILinkId
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI link ID]]></rdfs:label>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILinkConsumer">
+    <!--
+    @sourceLanguage en-US
+    @targetLanguage ar-arb
+    @source LTI link consumer
+    @subject http://www.tao.lu/Ontologies/TAOLTI.rdf#LTILinkConsumer
+    @predicate http://www.w3.org/2000/01/rdf-schema#label
+    -->
+    <rdfs:label xml:lang="ar-arb"><![CDATA[LTI link consumer]]></rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

@@ -1,0 +1,1 @@
+<? return array('module' => array(0 => 'http://www.tao.lu/Ontologies/TAODelivery.rdf#DeliveryManagerRole'),'actions' => array('http://www.tao.lu/Ontologies/taoFuncACL.rdf#a_taoDelivery_Delivery_getOntologyData' => array(0 => 'http://www.imsglobal.org/imspurl/lis/v1/vocab/membership#Instructor')));?>

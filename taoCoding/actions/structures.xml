@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+	<structure id="results" name="Results" level="5" visible="true">
+		<description>View and format the collected results.</description>
+		<sections>
+			<section id="grade_exam" name="Grade exams" url="/taoCoding/Coding/index">
+			</section>
+			<section id="concil_exam" name="Finalize grades" url="/taoCoding/Conciliation/index">
+			</section>
+		</sections>
+	</structure>
+</structures>

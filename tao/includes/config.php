@@ -1,0 +1,1 @@
+<?php return array('defaultUploadFileSource' => 'http://localhost:8888/tao/tao.rdf#i13753770791251');

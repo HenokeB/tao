@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+	<structure id="settings" name="Settings" level="11" visible="false">
+		<description />
+		<sections>
+			<section id="settings_oauth_mng" name="LTI Consumers" url="/ltiProvider/LTIConsumers/index">
+				<trees>
+					<tree name="LTI Consumers"
+						className="LTI Consumers"
+						dataUrl="/ltiProvider/LTIConsumers/getOntologyData"
+						editInstanceUrl="/ltiProvider/LTIConsumers/editInstance"
+						addInstanceUrl="/ltiProvider/LTIConsumers/addInstance"
+						deleteUrl="/ltiProvider/LTIConsumers/delete"
+					/>
+				</trees>
+				<actions>
+					<action name="add Consumer" url="/ltiProvider/LTIConsumers/addInstanceForm" context="class" />
+					<action name="delete" js="generisActions.removeNode" url="/ltiProvider/LTIConsumers/delete" context="instance" />
+				</actions>
+			</section>
+		</sections>
+	</structure>
+</structures>

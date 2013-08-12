@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<events>
+  <event>
+    <name><![CDATA[a]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375447274291]]></time>
+    <id><![CDATA[qti_validate]]></id>
+  </event>
+  <event>
+    <name><![CDATA[li]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375447272458]]></time>
+    <id><![CDATA[c]]></id>
+  </event>
+  <event>
+    <name><![CDATA[a]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375447280095]]></time>
+    <id><![CDATA[qti_validate]]></id>
+  </event>
+  <event>
+    <name><![CDATA[li]]></name>
+    <type><![CDATA[click]]></type>
+    <time><![CDATA[1375447278510]]></time>
+    <id><![CDATA[d]]></id>
+  </event>
+</events>

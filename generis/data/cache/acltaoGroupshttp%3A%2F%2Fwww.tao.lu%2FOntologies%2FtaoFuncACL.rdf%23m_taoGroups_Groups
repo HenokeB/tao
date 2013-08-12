@@ -1,0 +1,1 @@
+<? return array('module' => array(0 => 'http://www.tao.lu/Ontologies/TAOGroup.rdf#GroupsManagerRole'),'actions' => array());?>
